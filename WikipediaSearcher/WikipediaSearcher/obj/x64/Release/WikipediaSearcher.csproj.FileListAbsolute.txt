@@ -1,0 +1,6 @@
+C:\Users\maxsp\source\repos\WikipediaSearcher\WikipediaSearcher\bin\x64\Release\WikipediaSearcher.exe.config
+C:\Users\maxsp\source\repos\WikipediaSearcher\WikipediaSearcher\bin\x64\Release\WikipediaSearcher.exe
+C:\Users\maxsp\source\repos\WikipediaSearcher\WikipediaSearcher\bin\x64\Release\WikipediaSearcher.pdb
+C:\Users\maxsp\source\repos\WikipediaSearcher\WikipediaSearcher\obj\x64\Release\WikipediaSearcher.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\WikipediaSearcher\WikipediaSearcher\obj\x64\Release\WikipediaSearcher.exe
+C:\Users\maxsp\source\repos\WikipediaSearcher\WikipediaSearcher\obj\x64\Release\WikipediaSearcher.pdb
